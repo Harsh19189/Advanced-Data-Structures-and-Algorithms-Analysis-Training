@@ -18,3 +18,14 @@ Advanced algorithms lectures for computer science students.
 ### Lecture 24 - [Pattern Searching Algorithms I]()
 ### Lecture 25 - [Pattern Searching Algorithms II]()
 ### Lecture 26 - [Pattern Searching Algorithms III]()
+
+## Textbooks
+
+* ***Introduction to Algorithms***, Thomas H. Cormen
+* ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
+* ***Competitive Programming 3***, Steven Halim
+* ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
+* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***The Algorithm Design Manual***, Steven S. Skiena
+* ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
