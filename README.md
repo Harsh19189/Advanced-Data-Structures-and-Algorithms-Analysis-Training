@@ -1,25 +1,25 @@
 # Advanced-Algorithms
 Advanced algorithms lectures for computer science students.
 
-## Part 3: Graph Algorithms & Dynammic Programming `[25H]`
+## Part 3: Graph Algorithms & Greedy Algorithms `[25H]`
 
 ### Lecture 15 - [Graph Algorithms]()
 ### Lecture 16 - [Shortest Path Graph Algorithms]()
 ### Lecture 17 - [Spanning Tree Graph Algorithms]()
 ### Lecture 18 - [Advanced Graph Algorithms]()
-### Lecture 19 - [Dynamic Programming I]()
-### Lecture 20 - [Dynamic Programming II]()
+### Lecture 19 - [Greedy Algorithms]()
+### Lecture 20 - [Advanced Greedy Algorithms]()
 
-## Part 4: Greedy Algorithms & String Algorithms `[35H]`
+## Part 4: String Algorithms & Dynammic Programming `[35H]`
 
-### Lecture 21 - [Greedy Algorithms]()
-### Lecture 22 - [Advanced Greedy Algorithms]()
-### Lecture 23 - [String Algorithms]()
-### Lecture 24 - [String Compression Algorithms]()
-### Lecture 25 - [Advanced String Compression Algorithms]()
-### Lecture 26 - [Pattern Searching Algorithms I]()
-### Lecture 27 - [Pattern Searching Algorithms II]()
-### Lecture 28 - [Pattern Searching Algorithms III]()
+### Lecture 21 - [String Algorithms]()
+### Lecture 22 - [String Compression Algorithms]()
+### Lecture 23 - [Advanced String Compression Algorithms]()
+### Lecture 24 - [Pattern Searching Algorithms I]()
+### Lecture 25 - [Pattern Searching Algorithms II]()
+### Lecture 26 - [Pattern Searching Algorithms III]()
+### Lecture 27 - [Dynamic Programming I]()
+### Lecture 28 - [Dynamic Programming II]()
 
 ## Textbooks
 
