@@ -1,4 +1,4 @@
-# Advanced-Algorithms
+# Advanced-Algorithms `60H`
 Advanced algorithms lectures for computer science students.
 
 ## Part 3: Graph Algorithms & Greedy Algorithms `[25H]`
