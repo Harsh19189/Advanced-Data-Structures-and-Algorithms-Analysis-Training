@@ -21,7 +21,7 @@ Advanced algorithms lectures for computer science students.
 ### Lecture 27 - [Dynamic Programming I]()
 ### Lecture 28 - [Dynamic Programming II]()
 
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/organizations-logos/textbook.jpg">
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## Textbooks
 
