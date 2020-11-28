@@ -14,16 +14,16 @@ Advanced algorithms lectures for computer science students.
 ## Lecture 19 - [Computer Graphics Algorithms]() (Curves)
 ## Lecture 20 - [Computer Graphics Algorithms]() (Transformations)
 
-## `Part 4:` String Algorithms & Dynammic Programming `35H`
+## `Part 4:` Dynammic Programming and String Algorithms `35H`
 
-## Lecture 21 - [String Algorithms]()
-## Lecture 22 - [String Compression Algorithms]()
-## Lecture 23 - [Advanced String Compression Algorithms]()
-## Lecture 24 - [Pattern Searching Algorithms I]()
-## Lecture 25 - [Pattern Searching Algorithms II]()
-## Lecture 26 - [Pattern Searching Algorithms III]()
-## Lecture 27 - [Dynamic Programming I]()
-## Lecture 28 - [Dynamic Programming II]()
+## Lecture 21 - [Dynamic Programming I]()
+## Lecture 22 - [Dynamic Programming II]()
+## Lecture 23 - [String Algorithms]()
+## Lecture 24 - [String Compression Algorithms]()
+## Lecture 25 - [Advanced String Compression Algorithms]()
+## Lecture 26 - [Pattern Searching Algorithms I]()
+## Lecture 27 - [Pattern Searching Algorithms II]()
+## Lecture 28 - [Pattern Searching Algorithms III]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
