@@ -1,16 +1,18 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Advanced-Algorithms `60H`
+# Advanced-Algorithms `70H`
 Advanced algorithms lectures for computer science students.
 
-## `Part 3:` Graph Algorithms & Greedy Algorithms `25H`
+## `Part 3:` Mathematical Algorithms `35H`
 
-## Lecture 15 - [Graph Algorithms]()
-## Lecture 16 - [Shortest Path Graph Algorithms]()
-## Lecture 17 - [Spanning Tree Graph Algorithms]()
-## Lecture 18 - [Advanced Graph Algorithms]()
-## Lecture 19 - [Greedy Algorithms]()
-## Lecture 20 - [Advanced Greedy Algorithms]()
+## Lecture 13 - [Mathematical Algorithms I]()
+## Lecture 14 - [Mathematical Algorithms II]()
+## Lecture 15 - [Geometric Algorithms I]()
+## Lecture 16 - [Geometric Algorithms II]()
+## Lecture 17 - [Computer Graphics Algorithms]() (Generating)
+## Lecture 18 - [Computer Graphics Algorithms]() (Filling), (Clipping)
+## Lecture 19 - [Computer Graphics Algorithms]() (Curves)
+## Lecture 20 - [Computer Graphics Algorithms]() (Transformations)
 
 ## `Part 4:` String Algorithms & Dynammic Programming `35H`
 
