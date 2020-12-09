@@ -14,7 +14,7 @@ Advanced algorithms lectures for computer science students.
 ## Lecture 21 - [Computer Graphics Algorithms]() (Curves)
 ## Lecture 22 - [Computer Graphics Algorithms]() (Transformations)
 
-## `Part 4:` Dynammic Programming and String Algorithms `30H`
+## `Part 4:` String Algorithms `30H`
 
 ## Lecture 23 - [String Algorithms]()
 ## Lecture 24 - [String Compression Algorithms]()
