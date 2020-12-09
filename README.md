@@ -1,23 +1,21 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Advanced-Algorithms `70H`
+# Advanced-Algorithms `60H`
 Advanced algorithms lectures for computer science students.
 
-## `Part 3:` Mathematical Algorithms `35H`
+## `Part 3:` Mathematical Algorithms `30H`
 
-## Lecture 13 - [Mathematical Algorithms I]()
-## Lecture 14 - [Mathematical Algorithms II]()
-## Lecture 15 - [Geometric Algorithms I]()
-## Lecture 16 - [Geometric Algorithms II]()
-## Lecture 17 - [Computer Graphics Algorithms]() (Generating)
-## Lecture 18 - [Computer Graphics Algorithms]() (Filling), (Clipping)
-## Lecture 19 - [Computer Graphics Algorithms]() (Curves)
-## Lecture 20 - [Computer Graphics Algorithms]() (Transformations)
+## Lecture 15 - [Mathematical Algorithms I]()
+## Lecture 16 - [Mathematical Algorithms II]()
+## Lecture 17 - [Geometric Algorithms I]()
+## Lecture 18 - [Geometric Algorithms II]()
+## Lecture 19 - [Computer Graphics Algorithms]() (Generating)
+## Lecture 20 - [Computer Graphics Algorithms]() (Filling), (Clipping)
+## Lecture 21 - [Computer Graphics Algorithms]() (Curves)
+## Lecture 22 - [Computer Graphics Algorithms]() (Transformations)
 
-## `Part 4:` Dynammic Programming and String Algorithms `35H`
+## `Part 4:` Dynammic Programming and String Algorithms `30H`
 
-## Lecture 21 - [Dynamic Programming I]()
-## Lecture 22 - [Dynamic Programming II]()
 ## Lecture 23 - [String Algorithms]()
 ## Lecture 24 - [String Compression Algorithms]()
 ## Lecture 25 - [Advanced String Compression Algorithms]()
