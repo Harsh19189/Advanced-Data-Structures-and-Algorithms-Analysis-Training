@@ -17,8 +17,8 @@ Advanced algorithms lectures for computer science students.
 ## `Part 4:` String Algorithms `30H`
 
 ## Lecture 23 - [String Algorithms]()
-## Lecture 24 - [String Compression Algorithms]()
-## Lecture 25 - [Advanced String Compression Algorithms]()
+## Lecture 24 - [String Compression Algorithms I]()
+## Lecture 25 - [String Compression Algorithms II]()
 ## Lecture 26 - [Pattern Searching Algorithms I]()
 ## Lecture 27 - [Pattern Searching Algorithms II]()
 ## Lecture 28 - [Pattern Searching Algorithms III]()
