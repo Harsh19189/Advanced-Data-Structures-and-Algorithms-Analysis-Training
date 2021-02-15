@@ -1,9 +1,9 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Advanced-Algorithms-Analysis-and-Design `60H`
+# Advanced-Algorithms-Analysis-and-Design `80H`
 Advanced algorithms analysis and design lectures for computer science students.
 
-## `Part 3:` Mathematical Algorithms `30H`
+## `Part 3:` Mathematical Algorithms `40H`
 
 ## Lecture 15 - [Mathematical Algorithms I]()
 ## Lecture 16 - [Mathematical Algorithms II]()
@@ -14,7 +14,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 ## Lecture 21 - [Computer Graphics Algorithms]() (Curves)
 ## Lecture 22 - [Computer Graphics Algorithms]() (Transformations)
 
-## `Part 4:` String Algorithms `30H`
+## `Part 4:` String Algorithms `40H`
 
 ## Lecture 23 - [String Algorithms]()
 ## Lecture 24 - [String Compression Algorithms I]()
