@@ -62,7 +62,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-## Textbooks
+## `Textbooks`
 
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
@@ -75,7 +75,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Coursera-Specializations
+## `Coursera-Specializations`
 
 * ***Accelerated Computer Science Fundamentals Specialization*** by University of Illinois at Urbana-Champaign
 * ***Algorithms Specialization*** by Stanford University
@@ -90,4 +90,4 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## YouTube-Playlists
+## `YouTube-Playlists`
