@@ -1,12 +1,12 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Advanced-Algorithms-Analysis-and-Design `80H`
+# Advanced-Algorithms-Analysis-and-Design
 Advanced algorithms analysis and design lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Mathematical Algorithms `40H`
+## `Part 3` Mathematical Algorithms `40 hrs`
 
 ### `Lecture 15` - [Mathematical Algorithms I]()
 ### `Lecture 16` - [Mathematical Algorithms II]()
@@ -17,10 +17,10 @@ Advanced algorithms analysis and design lectures for computer science students.
 ### `Lecture 21` - [Computer Graphics Algorithms]() (Curves)
 ### `Lecture 22` - [Computer Graphics Algorithms]() (Transformations)
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` String Algorithms `40H`
+## `Part 4` String Algorithms `40 hrs`
 
 ### `Lecture 23` - [String Algorithms]()
 ### `Lecture 24` - [String Compression Algorithms I]()
@@ -32,7 +32,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -45,19 +45,20 @@ Advanced algorithms analysis and design lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `80H`
+## `Educational-Projects` `10 hrs`/`Project`
 
-### `Project 01` -
-### `Project 02` -
-### `Project 03` -
-### `Project 04` -
-### `Project 05` -
-### `Project 06` -
-### `Project 07` -
-### `Project 08` -
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
