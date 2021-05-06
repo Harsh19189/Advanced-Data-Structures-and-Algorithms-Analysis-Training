@@ -8,26 +8,26 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 ## `Part 3` Mathematical Algorithms `40 hrs`
 
-### `Lecture 15` - [Mathematical Algorithms I]()
-### `Lecture 16` - [Mathematical Algorithms II]()
-### `Lecture 17` - [Geometric Algorithms I]()
-### `Lecture 18` - [Geometric Algorithms II]()
-### `Lecture 19` - [Computer Graphics Algorithms]() (Generating)
-### `Lecture 20` - [Computer Graphics Algorithms]() (Filling), (Clipping)
-### `Lecture 21` - [Computer Graphics Algorithms]() (Curves)
-### `Lecture 22` - [Computer Graphics Algorithms]() (Transformations)
+### `Lecture 17` - [String Algorithms]()
+### `Lecture 18` - [String Compression Algorithms I]()
+### `Lecture 19` - [String Compression Algorithms II]()
+### `Lecture 20` - [Pattern Searching Algorithms I]()
+### `Lecture 21` - [Pattern Searching Algorithms II]()
+### `Lecture 22` - [Pattern Searching Algorithms III]()
 
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 4` String Algorithms `40 hrs`
 
-### `Lecture 23` - [String Algorithms]()
-### `Lecture 24` - [String Compression Algorithms I]()
-### `Lecture 25` - [String Compression Algorithms II]()
-### `Lecture 26` - [Pattern Searching Algorithms I]()
-### `Lecture 27` - [Pattern Searching Algorithms II]()
-### `Lecture 28` - [Pattern Searching Algorithms III]()
+### `Lecture 23` - [Mathematical Algorithms I]()
+### `Lecture 24` - [Mathematical Algorithms II]()
+### `Lecture 25` - [Geometric Algorithms I]()
+### `Lecture 26` - [Geometric Algorithms II]()
+### `Lecture 27` - [Computer Graphics Algorithms]() (Generating)
+### `Lecture 28` - [Computer Graphics Algorithms]() (Filling), (Clipping)
+### `Lecture 29` - [Computer Graphics Algorithms]() (Curves)
+### `Lecture 30` - [Computer Graphics Algorithms]() (Transformations)
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
