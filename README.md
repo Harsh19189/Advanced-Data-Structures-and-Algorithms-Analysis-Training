@@ -6,7 +6,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Mathematical Algorithms `40 hrs`
+## `Part 3` String Algorithms `40 hrs`
 
 ### `Lecture 17` - [String Algorithms]()
 ### `Lecture 18` - [String Compression Algorithms I]()
@@ -18,7 +18,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` String Algorithms `40 hrs`
+## `Part 4` Mathematical and Geometric Algorithms `40 hrs`
 
 ### `Lecture 23` - [Mathematical Algorithms I]()
 ### `Lecture 24` - [Mathematical Algorithms II]()
