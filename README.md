@@ -8,7 +8,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 ## `Part 3` String Algorithms `30 hrs`
 
-### `Lecture 17` - [String Algorithms]()
+### `Lecture 17` - [String Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -19,7 +19,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 18` - [String Compression Algorithms I]()
+### `Lecture 18` - [String Compression Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -30,7 +30,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 19` - [String Compression Algorithms II]()
+### `Lecture 19` - [String Compression Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -41,7 +41,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 20` - [Pattern Searching Algorithms I]()
+### `Lecture 20` - [Pattern Searching Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -52,7 +52,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 21` - [Pattern Searching Algorithms II]()
+### `Lecture 21` - [Pattern Searching Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -63,7 +63,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 22` - [Pattern Searching Algorithms III]()
+### `Lecture 22` - [Pattern Searching Algorithms III](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -79,7 +79,7 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 ## `Part 4` Mathematical and Geometric Algorithms `40 hrs`
 
-### `Lecture 23` - [Mathematical Algorithms I]()
+### `Lecture 23` - [Mathematical Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -90,7 +90,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 24` - [Mathematical Algorithms II]()
+### `Lecture 24` - [Mathematical Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -101,7 +101,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 25` - [Geometric Algorithms I]()
+### `Lecture 25` - [Geometric Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -112,7 +112,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 26` - [Geometric Algorithms II]()
+### `Lecture 26` - [Geometric Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -123,7 +123,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 27` - [Computer Graphics Algorithms]() (Generating)
+### `Lecture 27` - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md) (Generating)
 <details>
   <summary>Agenda</summary><br>
 
@@ -134,7 +134,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 28` - [Computer Graphics Algorithms]() (Filling), (Clipping)
+### `Lecture 28` - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md) (Filling), (Clipping)
 <details>
   <summary>Agenda</summary><br>
 
@@ -145,7 +145,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 29` - [Computer Graphics Algorithms]() (Curves)
+### `Lecture 29` - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md) (Curves)
 <details>
   <summary>Agenda</summary><br>
 
@@ -156,7 +156,7 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-### `Lecture 30` - [Computer Graphics Algorithms]() (Transformations)
+### `Lecture 30` - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md) (Transformations)
 <details>
   <summary>Agenda</summary><br>
 
