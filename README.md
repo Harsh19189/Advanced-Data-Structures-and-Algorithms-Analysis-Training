@@ -172,16 +172,16 @@ Advanced algorithms analysis and design lectures for computer science students.
 
 ## `Assignments` `5 hrs`/`Assignment`
 
-### `Assignment 01` - 
-### `Assignment 02` - 
-### `Assignment 03` - 
-### `Assignment 04` - 
-### `Assignment 05` - 
-### `Assignment 06` - 
-### `Assignment 07` - 
-### `Assignment 08` - 
-### `Assignment 09` - 
-### `Assignment 10` - 
+### `Assignment 01` - Data Structure Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 02` - String Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 03` - Mathematics Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 04` - Greedy Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 05` - Brute Force Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 06` - Data Structure Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 07` - String Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 08` - Mathematics Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 09` - Greedy Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 10` - Brute Force Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
 
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
