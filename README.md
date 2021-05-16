@@ -1,12 +1,13 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
-
 # Advanced-Algorithms-Analysis-and-Design
 Advanced algorithms analysis and design lectures for computer science students.
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
+<br>
 <br>
 
 ## `Part 3` String Algorithms `30 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 17` - [String Algorithms](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
@@ -74,10 +75,13 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
+<br>
 <br>
 
 ## `Part 4` Mathematical and Geometric Algorithms `40 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 23` - [Mathematical Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Algorithms-Analysis-and-Design/blob/master/Lectures/README.md)
 <details>
@@ -167,10 +171,13 @@ Advanced algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
+<br>
 <br>
 
 ## `Assignments` `5 hrs`/`Assignment`
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
 ### `Assignment 01` - Data Structure Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
 ### `Assignment 02` - String Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
@@ -183,10 +190,13 @@ Advanced algorithms analysis and design lectures for computer science students.
 ### `Assignment 09` - Greedy Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
 ### `Assignment 10` - Brute Force Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
+<br>
 <br>
 
 ## `Educational-Projects` `10 hrs`/`Project`
+
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
