@@ -1,1 +1,1 @@
-# Advanced Data Structures and Advanced Algorithms Analysis Training
+# Advanced Data Structures and Algorithms Analysis Training
