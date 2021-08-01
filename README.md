@@ -1,19 +1,31 @@
 # Advanced Data Structures and Algorithms Analysis Training
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Advanced Data Structures and Algorithms Analysis Training for computer science students.
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
+## :dart: `Training Summary`
+### :clock4:            `350` Hours         :calendar:  `35` Weeks
+### :open_file_folder:  `04` Courses        :clipboard: `07` Modules             :bookmark_tabs: `46` Lectures    :card_index: `280` Sections       :pencil: `95` Quizzes
+### :paperclip:         `46` Practices      :bulb:      `34` Assignments         :video_game: `40` Projects
+### :books:             `30` Textbooks      :computer:  `10` Coursera Specializations                             :film_strip: `30` YouTube Playlists
+### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+### `Prerequisite Knowledge`
+* [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
+### `Related Repository`
+* [Problem Solving Training](https://github.com/cs-MohamedAyman/Problem-Solving-Training) Repository
+* [Computer Science Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks) Repository
+* [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations) Repository
+* [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists) Repository
+
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
 <br>
 <br>
 
