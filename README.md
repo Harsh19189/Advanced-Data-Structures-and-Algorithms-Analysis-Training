@@ -13,10 +13,10 @@
 Advanced Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
-### :clock4:            `350` Hours         :calendar:  `35` Weeks
-### :open_file_folder:  `04` Courses        :clipboard: `07` Modules             :bookmark_tabs: `46` Lectures    :card_index: `280` Sections       :pencil: `95` Quizzes
-### :paperclip:         `46` Practices      :bulb:      `34` Assignments         :video_game: `40` Projects
-### :books:             `30` Textbooks      :computer:  `10` Coursera Specializations                             :film_strip: `30` YouTube Playlists
+### :clock4:            `350` Hours         :calendar:    `35` Weeks                       :open_file_folder:  `4` Courses         :clipboard: `7` Modules
+### :bookmark_tabs:     `46` Lectures       :card_index:  `280` Sections                   :pencil:     `95` Quizzes               :paperclip: `700` Practices
+### :bulb:              `34` Assignments    :label:       `340` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
+### :books:             `30` Textbooks      :computer:    `10` Coursera Specializations    :film_strip: `30` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -32,8 +32,11 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 <br>
+<br>
 
-## [`Lectures`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) `3 hrs`/`Lecture`
+## [`Lectures`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
+### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
+<br>
 
 ### `Advanced Data Structures` Lectures
 
@@ -121,9 +124,10 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 <br>
-<br>
 
-## [`Assignments`]() `10 hrs`/`Assignment`
+## [`Assignments`]()
+### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+<br>
 
 ### `Advanced Data Structures and Algorithms Analysis` Assignments
 
@@ -183,11 +187,10 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 <br>
-<br>
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
-### `Advanced Data Structures and Algorithms Analysis` Textbooks
+### :books: `Advanced Data Structures and Algorithms Analysis` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
@@ -201,7 +204,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 * ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
 
-### `Computer Graphics` Textbooks
+### :books: `Computer Graphics` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
 
@@ -223,7 +226,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 * ***OpenGL Programming Guide***, Dave Shreiner
 * ***Algorithms and Data Structures with Applications to Graphics and Geometry***, Jurg Nievergelt
 
-### `Data Compression` Textbooks
+### :books: `Data Compression` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
 
@@ -237,7 +240,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### `Advanced Data Structures and Algorithms Analysis` Specializations
+### :computer: `Advanced Data Structures and Algorithms Analysis` Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
