@@ -14,9 +14,9 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 ## :dart: `Training Summary`
 ### :clock4:            `350` Hours         :calendar:    `35` Weeks                       :open_file_folder:  `4` Courses         :clipboard: `7` Modules
-### :bookmark_tabs:     `46` Lectures       :card_index:  `280` Sections                   :pencil:     `95` Quizzes               :paperclip: `700` Practices
-### :bulb:              `34` Assignments    :label:       `340` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
-### :books:             `30` Textbooks      :computer:    `10` Coursera Specializations    :film_strip: `30` YouTube Playlists
+### :bookmark_tabs:     `46` Lectures       :card_index:  `280` Sections                   :pencil:            `95` Quizzes        :paperclip: `700` Practices
+### :bulb:              `36` Assignments    :label:       `340` Tasks                      :video_game:        `40` Projects       :bookmark:  `400` Tasks
+### :books:             `30` Textbooks      :computer:    `10` Coursera Specializations    :film_strip:        `30` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -125,7 +125,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <br>
 <br>
 
-## [`Assignments`]()
+## [`Assignments`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
@@ -167,21 +167,23 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
 
-#### Assignment 25 - Phase 1 in [2D Graphics Library]()
-#### Assignment 26 - Phase 2 in [2D Graphics Library]()
-#### Assignment 27 - Phase 3 in [2D Graphics Library]()
-#### Assignment 28 - Phase 1 in [3D Graphics Library]()
-#### Assignment 29 - Phase 2 in [3D Graphics Library]()
-#### Assignment 30 - Phase 3 in [3D Graphics Library]()
+#### Assignment 25 - Phase 1 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 26 - Phase 2 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 27 - Phase 3 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 28 - Phase 4 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 29 - Phase 1 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 30 - Phase 2 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 31 - Phase 3 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 32 - Phase 4 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 
 ### `Data Compression` Assignments
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
 
-#### Assignment 31 - Phase 1 in [Document Compression Library]()
-#### Assignment 32 - Phase 2 in [Document Compression Library]()
-#### Assignment 33 - Phase 3 in [Document Compression Library]()
-#### Assignment 34 - Phase 4 in [Document Compression Library]()
+#### Assignment 33 - Phase 1 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 34 - Phase 2 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 35 - Phase 3 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 36 - Phase 4 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 
 
 <br>
