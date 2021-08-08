@@ -16,7 +16,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 | `400` | :clock4:        Hours       | `40`  | :calendar:         Weeks    | `4`   | :open_file_folder:  Courses  | `8`   | :clipboard:   Modules   |
 |:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:-----------------------:|
-| `55`  | :bookmark_tabs: Lectures    | `330` | :card_index:       Sections | `110` | :pencil:            Quizzes  | `825` | :paperclip:   Practices |
+| `50`  | :bookmark_tabs: Lectures    | `300` | :card_index:       Sections | `100` | :pencil:            Quizzes  | `750` | :paperclip:   Practices |
 | `40`  | :bulb:          Assignments | `400` | :label:            Tasks    | `40`  | :video_game:        Projects | `400` | :bookmark:    Tasks     |
 | `20`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10`  | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
 
@@ -75,17 +75,15 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 #### Lecture 03 - [Geometric Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 04 - [Geometric Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 05 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 06 - [Advanced Dynamic Programming](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 
 ### `Module 2` String Algorithms
-#### Lecture 07 - [String Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 08 - [String Compression Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [String Compression Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 10 - [Pattern Searching Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 11 - [Pattern Searching Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 12 - [Pattern Searching Algorithms III](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 06 - [String Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 07 - [Pattern Searching Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 08 - [Pattern Searching Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 09 - [Pattern Searching Algorithms III](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 10 - [Advanced Dynamic Programming](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 ### `Computer Graphics` Lectures
 
