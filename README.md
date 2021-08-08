@@ -14,11 +14,11 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 ## :dart: `Training Summary`
 
-| :clock4:        | `400` | Hours       | :calendar:         | `40`  | Weeks    | :open_file_folder: | `4`   | Courses  | :clipboard:  | `8`   | Modules   |
-|:---------------:|:-----:|:-----------:|:------------------:|:-----:|:--------:|:------------------:|:-----:|:--------:|:------------:|:-----:|:---------:|
-| :bookmark_tabs: | `55`  | Lectures    | :card_index:       | `330` | Sections | :pencil:           | `110` | Quizzes  | :paperclip:  | `825` | Practices |
-| :bulb:          | `40`  | Assignments | :label:            | `400` | Tasks    | :video_game:       | `40`  | Projects | :bookmark:   | `400` | Tasks     |
-| :books:         | `20`  | Textbooks   | :desktop_computer: | `5`   | Udacity  | :computer:         | `10`  | Coursera | :film_strip: | `10`  | YouTube   |
+| `400` | :clock4:        Hours       | `40`  | :calendar:         Weeks    | `4`   | :open_file_folder:  Courses  | `8`   | :clipboard:   Modules   |
+|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:-----------------------:|
+| `55`  | :bookmark_tabs: Lectures    | `330` | :card_index:       Sections | `110` | :pencil:            Quizzes  | `825` | :paperclip:   Practices |
+| `40`  | :bulb:          Assignments | `400` | :label:            Tasks    | `40`  | :video_game:        Projects | `400` | :bookmark:    Tasks     |
+| `20`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10`  | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
