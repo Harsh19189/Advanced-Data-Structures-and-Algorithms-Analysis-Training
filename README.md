@@ -114,12 +114,22 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
 
 ### `Module 1` Lossless Data Compression
-#### Lecture 01 - [Introduction to Data Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 01 - [Introduction to Lossless Data Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 02 - [Fixed Length and Variable Length Codes](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 03 - [Statistical Encoding](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 04 - [Adaptive Statistical Encoding](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 05 - [Dictionary Transforms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 06 - [Evaluating Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
+
+### `Module 2` Lossy Data Compression
+#### Lecture 07 - [Introduction to Lossy Data Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 08 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 09 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 10 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 11 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 12 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
@@ -185,6 +195,10 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 #### Assignment 34 - Phase 2 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 #### Assignment 35 - Phase 3 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 #### Assignment 36 - Phase 4 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 37 - Phase 1 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 38 - Phase 2 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 39 - Phase 3 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+#### Assignment 40 - Phase 4 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 
 
 <br>
