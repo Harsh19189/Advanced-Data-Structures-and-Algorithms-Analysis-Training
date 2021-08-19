@@ -24,13 +24,19 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 <br>
 
-### `Prerequisite Knowledge`
-* [Data Structures and Algorithms Analysis Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training) Repository
-### `Related Repository`
-* [Problem Solving Training](https://github.com/cs-MohamedAyman/Problem-Solving-Training) Repository
-* [Computer Science Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks) Repository
-* [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations) Repository
-* [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists) Repository
+## Table of Contents
+  * [Lectures](#Lectures)
+    * [Advanced Data Structures Lectures](#Advanced-Data-Structures-Lectures)
+    * [Advanced Algorithms Analysis Lectures](#Advanced-Algorithms-Analysis-Lectures)
+    * [Computer Graphics Lectures](#Computer-Graphics-Lectures)
+    * [Data Compression Lectures](#Data-Compression-Lectures)
+  * [Assignments](#Assignments)
+  * [Educational-Projects](#Educational-Projects)
+  * [Textbooks](#Textbooks)
+  * [Coursera-Specializations](#Coursera-Specializations)
+  * [YouTube-Playlists](#YouTube-Playlists)
+
+<br>
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
