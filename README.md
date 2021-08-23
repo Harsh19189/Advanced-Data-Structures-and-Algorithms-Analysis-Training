@@ -4,21 +4,56 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 Advanced Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `400` | :clock4:        Hours       | `40`  | :calendar:         Weeks    | `4`   | :open_file_folder:  Courses  | `8`   | :clipboard:   Modules   |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:-----------------------:|
-| `50`  | :bookmark_tabs: Lectures    | `300` | :card_index:       Sections | `100` | :pencil:            Quizzes  | `750` | :paperclip:   Practices |
-| `40`  | :bulb:          Assignments | `400` | :label:            Tasks    | `40`  | :video_game:        Projects | `400` | :bookmark:    Tasks     |
-| `20`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10`  | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🕓 Hours</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">📆 Weeks</td>
+            <td align=center width="25px">4</td>
+            <td align=center width="175px">📂 Courses</td>
+            <td align=center width="25px">8</td>
+            <td align=center width="175px">📋 Modules</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">50</td>
+            <td align=center width="175px">📑 Lectures</td>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">📇 Sections</td>
+            <td align=center width="25px">100</td>
+            <td align=center width="175px">📝 Quizzes</td>
+            <td align=center width="25px">750</td>
+            <td align=center width="175px">📎 Practices</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">💡 Assignments</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🔖 Tasks</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">20</td>
+            <td align=center width="175px">📚 Textbooks</td>
+            <td align=center width="25px">5</td>
+            <td align=center width="175px">🖥️ Udacity</td>
+            <td align=center width="25px">10</td>
+            <td align=center width="175px">💻 Coursera</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">🎞️ YouTube</td>
+        </tr>
+    </tbody>
+</table>
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
@@ -31,17 +66,22 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
     * [Computer Graphics Lectures](#Computer-Graphics-Lectures)
     * [Data Compression Lectures](#Data-Compression-Lectures)
   * [Assignments](#Assignments)
+    * [Advanced Data Structures Assignments](#Advanced-Data-Structures-Assignments)
+    * [Advanced Algorithms Analysis Assignments](#Advanced-Algorithms-Analysis-Assignments)
+    * [Computer Graphics Assignments](#Computer-Graphics-Assignments)
+    * [Data Compression Assignments](#Data-Compression-Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
+    * [Data Structures and Algorithms Analysis Textbooks](#Data-Structures-and-Algorithms-Analysis-Textbooks)
+    * [Computer Graphics Textbooks](#Computer-Graphics-Textbooks)
+    * [Data Compression Textbooks](#Data-Compression-Textbooks)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
 
 <br>
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
-<br>
-<br>
+<br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
@@ -219,78 +259,115 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 
 
+<br><br>
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg"></img>
 <br>
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
-<br>
 
-## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
-
-### :books: `Advanced Data Structures and Algorithms Analysis` Textbooks
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
-* ***Introduction to Algorithms***, Thomas H. Cormen
-* ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
-* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
-* ***Competitive Programming 3***, Steven Halim
-* ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
-* ***The Algorithm Design Manual***, Steven S. Skiena
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
-* ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
-
-### :books: `Computer Graphics` Textbooks
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
-
-* ***Mathematics for 3D Game Programming and Computer Graphics***, Eric Lengyel
-* ***Introduction to Computer Graphics***, David J. Eck
-* ***Geometry for Computer Graphics***, John Vince
-* ***Fundamentals of Computer Graphics***, Peter Shirley
-* ***Fundamentals of Computer Graphics***, John Collomosse
-* ***Computer Graphics Programming in OpenGL with Cpp***, V. Scott Gordon
-* ***Computer Graphics Principles and Practice***, John F. Hughes
-* ***Computer Graphics Lecture Notes1***
-* ***Computer Graphics Lecture Notes2***
-* ***Computer Graphics C Version***, Donald Hearn
-* ***Computer Graphics and Geometric Modeling***, Max K. Agoston
-* ***3D Math Primer for Graphics and Game Development***, Fletcher Dunn
-* ***3D Math Primer for Graphics and Game Development***, Ian Parberry
-* ***Graphics Shaders Theory and Practice***, Mike Bailey
-* ***OpenGL Shading Language***, Randi J. Rost
-* ***OpenGL Programming Guide***, Dave Shreiner
-* ***Algorithms and Data Structures with Applications to Graphics and Geometry***, Jurg Nievergelt
-
-### :books: `Data Compression` Textbooks
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
-
-* ***Data Compression***, David Salomon
-* ***The Data Compression Book***, Mark Nelson
-* ***Understanding Compression Data Compression for Modern Developers***, Colt McAnlis
-* ***Redundancy of Lossless Data Compression for Known Sources by Analytic Methods***, Michael Drmota
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
 
 <br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+
+### `Data Structures and Algorithms Analysis` Textbooks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to Algorithms, Thomas H. Cormen</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms Annotated Reference, Granville Barnett</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Analysis of Algorithms An Active Learning Approach, Jeffrey J. McConnell</a></td>
+        </tr>
+        <tr>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-Algorithms-Thomas-H.-Cormen.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-Annotated-Reference-Granville-Barnett.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Analysis-of-Algorithms-An-Active-Learning-Approach-Jeffrey-J.-McConnell.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Competitive Programming 3, Steven Halim</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Guide to Competitive Programming, Antti Laaksonen</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Fundamental of Algorithmics, Gilles Brassard and Paul Bartley</a></td>
+        </tr>
+        <tr>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Competitive-Programming-3-Steven-Halim.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Guide-to-Competitive-Programming-Antti-Laaksonen.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamental-of-Algorithmics-Gilles-Brassard-and-Paul-Bartley.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms TutorialsPoint</a></td>
+        </tr>
+        <tr>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Grokking-Algorithms-Aditya-Y.-Bhargava.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-the-Design-and-Analysis-of-Algorithms-Anany-V.-Levitin.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-TutorialsPoint.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<br><br>
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg"></img>
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### :computer: `Advanced Data Structures and Algorithms Analysis` Specializations
+<table>
+    <tbody>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Introduction to Discrete Mathematics for Computer Science Specialization by University of California San Diego</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Discrete Mathematics by Shanghai Jiao Tong University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Accelerated Computer Science Fundamentals Specialization by University of Illinois at Urbana-Champaign</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algorithms Specialization by Stanford University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Performance by University of California San Diego</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Geometric Algorithms by EIT Digital</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algorithms by Princeton University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Algorithms Specialization by University of California San Diego</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computational Geometry by Saint Petersburg State University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Computer Science: Algorithms, Theory, and Machines by Princeton University</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algebra & Algorithms by Moscow Institute of Physics and Technology</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="200"></img></td>
+<td align=center width="33%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="200"></img></td>
+        </tr>
+    </tbody>
+</table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
-* ***Algorithms, Part I*** by Princeton University
-* ***Algorithms, Part II*** by Princeton University
-* ***Analysis of Algorithms*** by Princeton University
-* ***Geometric Algorithms*** by EIT Digital
-* ***Approximation Algorithms*** by EIT Digital
-* ***Computational Geometry*** by Saint Petersburg State University
-* ***Competitive Programmer's Core Skills*** by Saint Petersburg State University
-* ***Computational Thinking for Problem Solving*** by University of Pennsylvania
-* ***Data Structures and Algorithms Specialization*** by University of Colorado Boulder
-
-<br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<br><br>
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg"></img>
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
