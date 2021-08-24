@@ -1,9 +1,9 @@
 # Advanced Data Structures and Algorithms Analysis Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
 <br><br><br><br><br>
 
 Advanced Data Structures and Algorithms Analysis Training for computer science students.
@@ -87,95 +87,219 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<br>
+
 ### `Advanced Data Structures` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Advanced Data Structures</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">Advanced Data Structures</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Disjoint Set</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">AA Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Skip List</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">K-Dimensional Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Trie</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">B/B+ Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Segment Tree</a></td>
+            <td align=center width="125px">Lecture 11</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sparse Tables</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Indexed Tree</a></td>
+            <td align=center width="125px">Lecture 12</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Suffix Array</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Treap</a></td>
+            <td align=center width="125px">Lecture 13</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Suffix Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Splay Tree</a></td>
+            <td align=center width="125px">Lecture 14</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Advanced Trees</a></td>
+        </tr>
+    </tbody>
+</table>
 
-### `Module 1` Advanced Data Structures
-#### Lecture 01 - [Disjoint Set](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 02 - [Skip List](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 03 - [Trie](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 04 - [Segment Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 05 - [Binary Indexed Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 06 - [Treap](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 07 - [Splay Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-
-### `Module 2` Advanced Data Structures
-#### Lecture 08 - [AA Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [K-Dimensional Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 10 - [B/B+ Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 11 - [Sparse Tables](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 12 - [Suffix Array](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 13 - [Suffix Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 14 - [Advanced Trees](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<br>
 
 ### `Advanced Algorithms Analysis` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Mathematical and Geometric Algorithms</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">String Algorithms</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Mathematical Algorithms I</a></td>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">String Algorithms</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Mathematical Algorithms II</a></td>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms I</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Geometric Algorithms I</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms II</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Geometric Algorithms II</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms III</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Advanced Graph Algorithms</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Advanced Dynamic Programming</a></td>
+        </tr>
+    </tbody>
+</table>
 
-### `Module 1` Mathematical and Geometric Algorithms
-#### Lecture 01 - [Mathematical Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 02 - [Mathematical Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 03 - [Geometric Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 04 - [Geometric Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 05 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
-### `Module 2` String Algorithms
-#### Lecture 06 - [String Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 07 - [Pattern Searching Algorithms I](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 08 - [Pattern Searching Algorithms II](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [Pattern Searching Algorithms III](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 10 - [Advanced Dynamic Programming](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg"></img>
+<br>
 
 ### `Computer Graphics` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">2D Computer Graphics</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">3D Computer Graphics</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to 2D Computer Graphics</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to 3D Computer Graphics</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Line Generating Algorithms</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Parametric Surfaces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Circle Generating Algorithms</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">3D Transformations</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Viewing and Clipping</a></td>
+            <td align=center width="125px">Lecture 11</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Camera Models</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Parametric Curves</a></td>
+            <td align=center width="125px">Lecture 12</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Ray Tracing and Reflection</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">2D Transformations</a></td>
+            <td align=center width="125px">Lecture 13</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Lighting and Reflection</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Fractals</a></td>
+            <td align=center width="125px">Lecture 14</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Texture Mapping</a></td>
+        </tr>
+    </tbody>
+</table>
 
-### `Module 1` 2D Computer Graphics
-#### Lecture 01 - [Introduction to 2D Computer Graphics](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 02 - [Line Generating Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 03 - [Circle Generating Algorithms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 04 - [Viewing and Clipping](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 05 - [Parametric Curves](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 06 - [2D Transformations](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 07 - [Fractals](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
-
-### `Module 2` 3D Computer Graphics
-#### Lecture 08 - [Introduction to 3D Computer Graphics](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [Parametric Surfaces](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 10 - [3D Transformations](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 11 - [Camera Models](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 12 - [Ray Tracing and Reflection](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 13 - [Lighting and Reflection](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 14 - [Texture Mapping](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<br>
 
 ### `Data Compression` Lectures
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
-
-### `Module 1` Lossless Data Compression
-#### Lecture 01 - [Introduction to Lossless Data Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 02 - [Fixed Length and Variable Length Codes](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 03 - [Statistical Encoding](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 04 - [Adaptive Statistical Encoding](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 05 - [Dictionary Transforms](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 06 - [Evaluating Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
-
-### `Module 2` Lossy Data Compression
-#### Lecture 07 - [Introduction to Lossy Data Compression](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 08 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 10 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 11 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 12 - [](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Module 1</td>
+            <td align=center width="350px">Lossless Data Compression</td>
+            <td align=center width="125px">Module 2</td>
+            <td align=center width="350px">Lossy Data Compression</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 01</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to Lossless Data Compression</a></td>
+            <td align=center width="125px">Lecture 07</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to Lossy Data Compression</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 02</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Fixed Length and Variable Length Codes</a></td>
+            <td align=center width="125px">Lecture 08</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Image Compression I</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 03</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Statistical Encoding</a></td>
+            <td align=center width="125px">Lecture 09</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Image Compression II</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 04</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Adaptive Statistical Encoding</a></td>
+            <td align=center width="125px">Lecture 10</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Video Compression</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 05</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Dictionary Transforms</a></td>
+            <td align=center width="125px">Lecture 11</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Audio Compression</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Lecture 06</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Evaluating Lossless Compression</a></td>
+            <td align=center width="125px">Lecture 12</td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Evaluating Lossy Compression</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
@@ -313,6 +437,32 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Grokking-Algorithms-Aditya-Y.-Bhargava.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-the-Design-and-Analysis-of-Algorithms-Anany-V.-Levitin.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-TutorialsPoint.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg"></img>
+
+### `Computer Graphics` Textbooks
+
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+
+### `Data Compression` Textbooks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">Data Compression David Salomon</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">The Data Compression Book Mark Nelson</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">Understanding Compression Data Compression for Modern Developers Colt McAnlis</a></td>
+        </tr>
+        <tr>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Compression-David-Salomon.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Data-Compression-Book-Mark-Nelson.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Understanding-Compression-Data-Compression-for-Modern-Developers-Colt-McAnlis.jpg"></td>
         </tr>
     </tbody>
 </table>
