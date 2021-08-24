@@ -310,69 +310,185 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
-### `Advanced Data Structures and Algorithms Analysis` Assignments
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+### `Advanced Data Structures` Assignments
 
-#### Assignment 01 - Divide and Conquer Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 02 - Graph Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 03 - String Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 04 - Data Structure Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 05 - Mathematics Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 06 - Greedy Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
-#### Assignment 07 - Divide and Conquer Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
-#### Assignment 08 - Graph Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
-#### Assignment 09 - String Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
-#### Assignment 10 - Data Structure Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
-#### Assignment 11 - Mathematics Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
-#### Assignment 12 - Greedy Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 01</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Data Structure Problems I in Codeforces</a></td>
+            <td align=center width="125px">Assignment 05</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Data Structure Problems II in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 02</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">String Problems I in Codeforces</a></td>
+            <td align=center width="125px">Assignment 06</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">String Problems II in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 03</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Disjoint Sets & Trie Problems in HackerEarth</a></td>
+            <td align=center width="125px">Assignment 07</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Segment Tree & Binary Indexed Tree Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 04</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Disjoint Set & Trie Problems in HackerRank</a></td>
+            <td align=center width="125px">Assignment 08</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Advanced Data Structure Problems in HackerRank</a></td>
+        </tr>
+    </tbody>
+</table>
 
-### `Advanced Data Structures and Algorithms Analysis` Assignments
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+### `Advanced Algorithms Analysis` Assignments
 
-#### Assignment 13 - Divide and Conquer Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 14 - Graph Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 15 - String Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 16 - Data Structure Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 17 - Mathematics Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 18 - Greedy Problems in [codeforces-phase-3-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-3)
-#### Assignment 19 - Divide and Conquer Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
-#### Assignment 20 - Graph Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
-#### Assignment 21 - String Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
-#### Assignment 22 - Data Structure Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
-#### Assignment 23 - Mathematics Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
-#### Assignment 24 - Greedy Problems in [codeforces-phase-3-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-4)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px">Assignment 01</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Divide and Conquer Problems in Codeforces</a></td>
+            <td align=center width="125px">Assignment 09</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 02</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I in Codeforces</a></td>
+            <td align=center width="125px">Assignment 10</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 03</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I in Codeforces</a></td>
+            <td align=center width="125px">Assignment 11</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 04</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems I in Codeforces</a></td>
+            <td align=center width="125px">Assignment 12</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems II in Codeforces</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 05</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming I Problems in HackerEarth</a></td>
+            <td align=center width="125px">Assignment 13</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming II Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 06</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I in HackerEarth</a></td>
+            <td align=center width="125px">Assignment 14</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 07</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems in HackerEarth</a></td>
+            <td align=center width="125px">Assignment 15</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems in HackerRank</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 08</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems in HackerRank</a></td>
+            <td align=center width="125px">Assignment 16</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in HackerRank</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg"></img>
+<br>
 
 ### `Computer Graphics` Assignments
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 01</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in 2D Graphics Library</a></td>
+            <td align=center width="125px">Assignment 05</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in 3D Graphics Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 02</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in 2D Graphics Library</a></td>
+            <td align=center width="125px">Assignment 06</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in 3D Graphics Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 03</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in 2D Graphics Library</a></td>
+            <td align=center width="125px">Assignment 07</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in 3D Graphics Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 04</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in 2D Graphics Library</a></td>
+            <td align=center width="125px">Assignment 08</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in 3D Graphics Library</a></td>
+        </tr>
+    </tbody>
+</table>
 
-#### Assignment 25 - Phase 1 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 26 - Phase 2 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 27 - Phase 3 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 28 - Phase 4 in [2D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 29 - Phase 1 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 30 - Phase 2 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 31 - Phase 3 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 32 - Phase 4 in [3D Graphics Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<br>
 
 ### `Data Compression` Assignments
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg">
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+            <td align=center width="125px"># Assignment</td>
+            <td align=center width="425px">Assignment Name</td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 01</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in Document Compression Library</a></td>
+            <td align=center width="125px">Assignment 05</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in Video Compression Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 02</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in Document Compression Library</a></td>
+            <td align=center width="125px">Assignment 06</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in Video Compression Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 03</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in Document Compression Library</a></td>
+            <td align=center width="125px">Assignment 07</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in Video Compression Library</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 04</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in Document Compression Library</a></td>
+            <td align=center width="125px">Assignment 08</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in Video Compression Library</a></td>
+        </tr>
+    </tbody>
+</table>
 
-#### Assignment 33 - Phase 1 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 34 - Phase 2 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 35 - Phase 3 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 36 - Phase 4 in [Document Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 37 - Phase 1 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 38 - Phase 2 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 39 - Phase 3 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-#### Assignment 40 - Phase 4 in [Video Compression Library](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-
-
-<br>
-<br>
+<br><br>
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
