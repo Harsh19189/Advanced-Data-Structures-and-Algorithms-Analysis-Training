@@ -3,7 +3,7 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/computer-graphics.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multimedia-data-compression.jpg"></img>
 <br><br><br><br><br>
 
 Advanced Data Structures and Algorithms Analysis Training for computer science students.
@@ -64,17 +64,17 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
     * [Advanced Data Structures Lectures](#Advanced-Data-Structures-Lectures)
     * [Advanced Algorithms Analysis Lectures](#Advanced-Algorithms-Analysis-Lectures)
     * [Computer Graphics Lectures](#Computer-Graphics-Lectures)
-    * [Data Compression Lectures](#Data-Compression-Lectures)
+    * [Multimedia Data Compression Lectures](#multimedia-data-compression-Lectures)
   * [Assignments](#Assignments)
     * [Advanced Data Structures Assignments](#Advanced-Data-Structures-Assignments)
     * [Advanced Algorithms Analysis Assignments](#Advanced-Algorithms-Analysis-Assignments)
     * [Computer Graphics Assignments](#Computer-Graphics-Assignments)
-    * [Data Compression Assignments](#Data-Compression-Assignments)
+    * [Multimedia Data Compression Assignments](#multimedia-data-compression-Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
     * [Data Structures and Algorithms Analysis Textbooks](#Data-Structures-and-Algorithms-Analysis-Textbooks)
     * [Computer Graphics Textbooks](#Computer-Graphics-Textbooks)
-    * [Data Compression Textbooks](#Data-Compression-Textbooks)
+    * [Multimedia Data Compression Textbooks](#multimedia-data-compression-Textbooks)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
 
@@ -249,18 +249,18 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multimedia-data-compression.jpg"></img>
 <br>
 
-### `Data Compression` Lectures
+### `Multimedia Data Compression` Lectures
 
 <table>
     <tbody>
         <tr>
             <td align=center width="125px">Module 1</td>
-            <td align=center width="350px">Lossless Data Compression</td>
+            <td align=center width="350px">Lossless Multimedia Data Compression</td>
             <td align=center width="125px">Module 2</td>
-            <td align=center width="350px">Lossy Data Compression</td>
+            <td align=center width="350px">Lossy Multimedia Data Compression</td>
         </tr>
         <tr>
             <td align=center width="125px">Lecture 01</td>
@@ -448,10 +448,10 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multimedia-data-compression.jpg"></img>
 <br>
 
-### `Data Compression` Assignments
+### `Multimedia Data Compression` Assignments
 
 <table>
     <tbody>
@@ -564,21 +564,21 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
 
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-compression.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multimedia-data-compression.jpg"></img>
 
-### `Data Compression` Textbooks
+### `Multimedia Data Compression` Textbooks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">Data Compression David Salomon</a></td>
-<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">The Data Compression Book Mark Nelson</a></td>
-<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-compression/README.md">Understanding Compression Data Compression for Modern Developers Colt McAnlis</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/multimedia-data-compression/README.md">Data Compression David Salomon</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/multimedia-data-compression/README.md">The Data Compression Book Mark Nelson</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/multimedia-data-compression/README.md">Understanding Compression Data Compression for Modern Developers Colt McAnlis</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Compression-David-Salomon.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Data-Compression-Book-Mark-Nelson.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Understanding-Compression-Data-Compression-for-Modern-Developers-Colt-McAnlis.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/multimedia-data-compression-David-Salomon.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-multimedia-data-compression-Book-Mark-Nelson.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Understanding-Compression-multimedia-data-compression-for-Modern-Developers-Colt-McAnlis.jpg"></td>
         </tr>
     </tbody>
 </table>
