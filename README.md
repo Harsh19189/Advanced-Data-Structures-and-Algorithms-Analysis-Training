@@ -22,13 +22,13 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
             <td align=center width="175px">📋 Modules</td>
         </tr>
         <tr>
-            <td align=center width="25px">35</td>
+            <td align=center width="25px">40</td>
             <td align=center width="175px">📑 Lectures</td>
-            <td align=center width="25px">210</td>
+            <td align=center width="25px">240</td>
             <td align=center width="175px">📇 Sections</td>
-            <td align=center width="25px">70</td>
+            <td align=center width="25px">80</td>
             <td align=center width="175px">📝 Quizzes</td>
-            <td align=center width="25px">525</td>
+            <td align=center width="25px">600</td>
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
@@ -367,26 +367,20 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
         <tr>
             <td align=center width="125px">Assignment 01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in 2D Graphics Library</a></td>
-            <td align=center width="125px">Assignment 05</td>
+            <td align=center width="125px">Assignment 04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 1 in 3D Graphics Library</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in 2D Graphics Library</a></td>
-            <td align=center width="125px">Assignment 06</td>
+            <td align=center width="125px">Assignment 05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 2 in 3D Graphics Library</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in 2D Graphics Library</a></td>
-            <td align=center width="125px">Assignment 07</td>
+            <td align=center width="125px">Assignment 06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 3 in 3D Graphics Library</a></td>
-        </tr>
-        <tr>
-            <td align=center width="125px">Assignment 04</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in 2D Graphics Library</a></td>
-            <td align=center width="125px">Assignment 08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Phase 4 in 3D Graphics Library</a></td>
         </tr>
     </tbody>
 </table>
