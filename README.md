@@ -286,9 +286,9 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
         </tr>
         <tr>
             <td align=center width="125px">Assignment 04</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Disjoint Set & Trie Problems in HackerRank</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Advanced Data Structure Problems I in HackerRank</a></td>
             <td align=center width="125px">Assignment 08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Advanced Data Structure Problems in HackerRank</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Advanced Data Structure Problems II in HackerRank</a></td>
         </tr>
     </tbody>
 </table>
@@ -303,50 +303,62 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
         <tr>
             <td align=center width="125px">Assignment 01</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Divide and Conquer Problems in Codeforces</a></td>
-            <td align=center width="125px">Assignment 09</td>
+            <td align=center width="125px">Assignment 11</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in Codeforces</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 02</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 10</td>
+            <td align=center width="125px">Assignment 12</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II in Codeforces</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 11</td>
+            <td align=center width="125px">Assignment 13</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II in Codeforces</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems I in Codeforces</a></td>
-            <td align=center width="125px">Assignment 12</td>
+            <td align=center width="125px">Assignment 14</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems II in Codeforces</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 05</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming I Problems in HackerEarth</a></td>
-            <td align=center width="125px">Assignment 13</td>
+            <td align=center width="125px">Assignment 15</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming II Problems in HackerEarth</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 06</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I in HackerEarth</a></td>
-            <td align=center width="125px">Assignment 14</td>
+            <td align=center width="125px">Assignment 16</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II in HackerEarth</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 07</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems in HackerEarth</a></td>
-            <td align=center width="125px">Assignment 15</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems in HackerRank</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I in HackerEarth</a></td>
+            <td align=center width="125px">Assignment 17</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II in HackerEarth</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 08</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems in HackerRank</a></td>
-            <td align=center width="125px">Assignment 16</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in HackerRank</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems I in HackerRank</a></td>
+            <td align=center width="125px">Assignment 18</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems II in HackerRank</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 09</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems I in HackerRank</a></td>
+            <td align=center width="125px">Assignment 19</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems II in HackerRank</a></td>
+        </tr>
+        <tr>
+            <td align=center width="125px">Assignment 10</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I in HackerRank</a></td>
+            <td align=center width="125px">Assignment 20</td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II in HackerRank</a></td>
         </tr>
     </tbody>
 </table>
