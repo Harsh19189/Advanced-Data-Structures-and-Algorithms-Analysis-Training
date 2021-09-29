@@ -14,7 +14,7 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
         <tr>
             <td align=center width="25px">300</td>
             <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">30</td>
+            <td align=center width="25px">25</td>
             <td align=center width="175px">📆 Weeks</td>
             <td align=center width="25px">3</td>
             <td align=center width="175px">📂 Courses</td>
