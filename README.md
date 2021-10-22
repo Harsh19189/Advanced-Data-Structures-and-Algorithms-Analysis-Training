@@ -165,19 +165,19 @@ Advanced Data Structures and Algorithms Analysis Training for computer science s
             <td align=center width="125px">Lecture 02</td>
             <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Mathematical Algorithms II</a></td>
             <td align=center width="125px">Lecture 07</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms I</a></td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">String Compression Algorithms</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Lecture 03</td>
             <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Geometric Algorithms I</a></td>
             <td align=center width="125px">Lecture 08</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms II</a></td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms I</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Lecture 04</td>
             <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Geometric Algorithms II</a></td>
             <td align=center width="125px">Lecture 09</td>
-            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms III</a></td>
+            <td align=left width="350px"><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Pattern Searching Algorithms II</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Lecture 05</td>
